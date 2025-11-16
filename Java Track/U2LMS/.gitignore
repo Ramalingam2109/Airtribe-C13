@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# IntelliJ / IDEA
+*.iml
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# Build directories
+bin/
+build/
+target/
+dist/
+
+# Libraries
+lib/
+
+# Gradle/Maven
+/.gradle/
+/.mvn/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Coverage / test output
+coverage/
+
+# Native
+*.so
+*.dll
+*.exe
